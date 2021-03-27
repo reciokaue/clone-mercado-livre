@@ -14,8 +14,6 @@ const Layout: React.FC = () => {
       <Wrapper>
         <Product/>
       </Wrapper>
-
-      <Footer/>
     </Container>
   );
 };
